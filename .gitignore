@@ -1,0 +1,10 @@
+# Rust build artifacts (any project in this repo)
+target/
+**/target/
+
+# Backtrace / debug
+*.pdb
+
+# Editor / OS cruft
+.DS_Store
+*.swp
